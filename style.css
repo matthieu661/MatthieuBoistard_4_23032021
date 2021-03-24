@@ -88,6 +88,7 @@ a:hover {
     bottom: 0;
     left: 0;
     right: 0;
+    opacity: 0.8;
 }
 
 .texture-paper::before {
@@ -736,7 +737,8 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: black!important;
+    font-size: 1EM;
 }
 
 .portfolio-thumb {
@@ -775,12 +777,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FffffC!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -823,6 +825,9 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpg");
+}
+.fa {
+    color: black;
 }
 
 @media (max-width: 1024px) {
