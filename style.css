@@ -1085,3 +1085,9 @@ h4 {
         text-align: center;
     }
 }
+
+.adresse {
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
