@@ -1089,5 +1089,5 @@ h4 {
 .adresse {
     display: flex;
     flex-direction: column;
-    
     align-items: center;
+}
